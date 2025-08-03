@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>📦 Inventory Management System</h1>
-        <p>Your Spring Boot + React Application</p>
+        <h1>📦RectroSPect</h1>
+        <p>ShoppingSpree</p>
       </header>
 
       <Counter />
@@ -21,7 +21,7 @@ function App() {
         
         {/* Using our ProductCard component with sample data */}
         <ProductCard 
-          name=" 🛒 Gaming Laptop"
+          name="  Gaming Laptop"
           description="High-performance gaming laptop with RTX graphics"
           price={1299.99}
           stockQuantity={15}
